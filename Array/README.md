@@ -1,6 +1,6 @@
 ## 题目 - Array
 1. https://leetcode-cn.com/problems/container-with-most-water/
-2. https://leetcode-cn.com/problems/move-zeroes/
+2. √ https://leetcode-cn.com/problems/move-zeroes/
 3. https://leetcode.com/problems/climbing-stairs/
 4. https://leetcode-cn.com/problems/3sum/ (高频老题）
 
