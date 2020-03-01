@@ -4,18 +4,15 @@
  * 时间复杂度：n
  */
 let moveZeroes = function(nums) {
-	if (!Array.isArray(nums) || nums.length == 0) return;
-
-	let index = 0;
-
+	let j = 0;
 	for (let i = 0; i < nums.length; ++i) {
 		if (nums[i] !== 0) {
-			nums[index++] = nums[i];
+			nums[j] = nums[i];
+			if (i !== j) {
+				nums[i] = 0;
+			}
+			j++;
 		}
-	}
-
-	while (index < nums.length) {
-		nums[index++] = 0;
 	}
 
 	return nums;
