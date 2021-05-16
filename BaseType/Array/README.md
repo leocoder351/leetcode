@@ -3,12 +3,12 @@
 1. √ https://leetcode-cn.com/problems/container-with-most-water/
 2. √ https://leetcode-cn.com/problems/move-zeroes/
 3. √ https://leetcode.com/problems/climbing-stairs/
-4. https://leetcode-cn.com/problems/3sum/ (高频老题）
+4. √ https://leetcode-cn.com/problems/3sum/ (高频老题）
 5. √ https://leetcode-cn.com/problems/two-sum/
 
 ## 实战练习题目 - Linked List（链表）
 
-1. https://leetcode-cn.com/problems/reverse-linked-list/
+1. √ https://leetcode-cn.com/problems/reverse-linked-list/
 2. https://leetcode-cn.com/problems/swap-nodes-in-pairs/
 3. https://leetcode-cn.com/problems/linked-list-cycle/ （重要）
 4. https://leetcode-cn.com/problems/linked-list-cycle-ii/
